@@ -7,9 +7,9 @@ It works in a way where there is a list of groups with a list of employees in ea
 Choosing a group from select option shows you members of that group
 and the card that represents a member will have black border.
 Clicking on a member card without border will add this member to selected group
-and clicking a card with black bprder will remove member from the 
+and clicking a card with black border will remove member from the 
 selected team.
-There is also navbar which navigates you to the home page and list of 
+There is also navbar which navigates you to the home page and a list of 
 groups with their members and their profession.
 
 Hope it looks good and also that I will pick up on how to do this myself soon.
